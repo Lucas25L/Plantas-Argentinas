@@ -1,0 +1,82 @@
+        <article class="plant">
+            <header class="plant__header">
+                <h2 class="plant__name">Algarrobo</h2>
+                <p class="plant__scientific-name"><em>Prosopis alba</em></p>
+            </header>
+
+            <section class="plant__section plant__section--description">
+                <h3 class="plant__section-title">Descripción</h3>
+                <p class="plant__text">
+                    Árbol nativo de Argentina, característico de regiones
+                    semiáridas. Puede alcanzar gran tamaño y posee una copa amplia.
+                </p>
+            </section>
+
+            <section class="plant__section plant__section--habitat">
+                <h3 class="plant__section-title">Hábitat y distribución</h3>
+                <p class="plant__text">
+                    Presente en varias provincias del norte argentino,
+                    especialmente en el Chaco.
+                </p>
+            </section>
+
+            <section class="plant__section plant__section--uses">
+                <h3 class="plant__section-title">Usos e importancia</h3>
+                <p class="plant__text">
+                    Tradicionalmente utilizado por comunidades locales
+                    por su madera y frutos.
+                </p>
+            </section>
+
+            <figure class="plant__image">
+                <img src="algarrobo.jpg" alt="Árbol de algarrobo" class="plant__img">
+                <figcaption class="plant__caption">
+                    Algarrobo blanco en la región chaqueña
+                </figcaption>
+            </figure>
+
+            <header class="plant__header">
+                <h2 class="plant__name">Fresno</h2>
+                <p class="plant__scientific-name"><em>(Fraxinus Americana)</em></p>
+            </header>k
+
+            <section class="plant__section plant__section--description">
+                <h3 class="plant__section-title">Descripción</h3>
+                <p class="plant__text">
+                    Árbol nativo de Argentina, característico de regiones
+                    semiáridas. Puede alcanzar gran tamaño y posee una copa amplia.
+                </p>
+            </section>
+
+            <section class="plant__section plant__section--habitat">
+                <h3 class="plant__section-title">Hábitat y distribución</h3>
+                <p class="plant__text">
+                    Presente en varias provincias del norte argentino,
+                    especialmente en el Chaco.
+                </p>
+            </section>
+
+            <section class="plant__section plant__section--uses">
+                <h3 class="plant__section-title">Usos e importancia</h3>
+                <p class="plant__text">
+                    Tradicionalmente utilizado por comunidades locales
+                    por su madera y frutos.
+                </p>
+            </section>
+
+            <figure class="plant__image">
+                <img src="algarrobo.jpg" alt="Árbol de algarrobo" class="plant__img">
+                <figcaption class="plant__caption">
+                    Algarrobo blanco en la región chaqueña
+                </figcaption>
+            </figure>
+
+            <div>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus maxime est, ratione velit exercitationem, blanditiis aperiam modi incidunt pariatur, at facere voluptas asperiores quia commodi facilis quasi. Voluptates, possimus eum. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus maxime est, ratione velit exercitationem, blanditiis aperiam modi incidunt pariatur, at facere voluptas asperiores quia commodi facilis quasi. Voluptates, possimus eum.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus maxime est, ratione velit exercitationem, blanditiis aperiam modi incidunt pariatur, at facere voluptas asperiores quia commodi facilis quasi. Voluptates, possimus eum.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus maxime est, ratione velit exercitationem, blanditiis aperiam modi incidunt pariatur, at facere voluptas asperiores quia commodi facilis quasi. Voluptates, possimus eum.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus maxime est, ratione velit exercitationem, blanditiis aperiam modi incidunt pariatur, at facere voluptas asperiores quia commodi facilis quasi. Voluptates, possimus eum.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus maxime est, ratione velit exercitationem, blanditiis aperiam modi incidunt pariatur, at facere voluptas asperiores quia commodi facilis quasi. Voluptates, possimus eum.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus maxime est, ratione velit exercitationem, blanditiis aperiam modi incidunt pariatur, at facere voluptas asperiores quia commodi facilis quasi. Voluptates, possimus eum.
+            </div>
+        </article>
